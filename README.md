@@ -1,2 +1,2 @@
-# react-native-playground
+# React Native Playground
 React Native Playground
